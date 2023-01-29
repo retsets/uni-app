@@ -1,0 +1,1 @@
+<view class="detail"><view class="title">{{''+datail.title+''}}</view><view class="info"><view class="author">{{"编辑："+datail.author}}</view><view class="time">{{"发布日期："+datail.posttime}}</view></view><view class="content"><rich-text nodes="{{datail.content}}"></rich-text></view><view class="description">声明：</view></view>
